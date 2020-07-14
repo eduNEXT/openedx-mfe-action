@@ -1,0 +1,6 @@
+name: Openedx MFE Github Action
+description: Build openedx micro-frontends
+author: '@edunext'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
